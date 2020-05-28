@@ -1,4 +1,4 @@
-```pip install -r requiremens```
+```pip install -r requirements.txt```
 
 ### Abstract
 
